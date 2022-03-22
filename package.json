@@ -1,0 +1,28 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning Node js",
+  "main": "Routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhor110397/NodeJS-course-Dharmendra.git"
+  },
+  "author": "Dharmendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhor110397/NodeJS-course-Dharmendra/issues"
+  },
+  "homepage": "https://github.com/vibhor110397/NodeJS-course-Dharmendra#readme",
+  "dependencies": {
+    "mongoose": "^5.13.14",
+    "natours": "^1.0.0",
+    "slugify": "^1.6.5",
+    "superagent": "^7.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
